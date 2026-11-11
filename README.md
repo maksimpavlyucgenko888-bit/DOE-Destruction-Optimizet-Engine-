@@ -8,3 +8,5 @@ WASD - move
 / 1,2,3,4,5 - spawn props
 / R - reload everything
 / LCM,E - grab
+
+You can download version in realease just click 1 tag button
